@@ -38,7 +38,7 @@
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/elenagyankova/elenagyankova/blob/output/github-contribution-grid-snake.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaGYankova&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaGYankova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
 
