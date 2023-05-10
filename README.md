@@ -1,4 +1,4 @@
-
+![github banner](https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/1649ebe1-6f1e-41ba-937a-15c0cd5e7190)
 <h1 align="center">Hello World! 👋 I'm Elena Yankova</h1>
 <h3 align="center">A passionate backend developer from Bulgaria.</h3>
 
