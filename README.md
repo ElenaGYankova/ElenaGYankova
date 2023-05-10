@@ -1,7 +1,7 @@
 ![github banner](https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/1649ebe1-6f1e-41ba-937a-15c0cd5e7190)
 <h1 align="center">Hello World! 👋 I'm Elena Yankova</h1>
 <h3 align="center">A passionate backend developer from Bulgaria.</h3>
-
+<p><img align="right" src="https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/87525793-de96-4917-bc9a-affbc4c37139.gif" width="300" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elenagyankova&label=Profile%20views&color=0e75b6&style=flat" alt="elenagyankova" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenagyankova" alt="elenagyankova" /></a> </p>
