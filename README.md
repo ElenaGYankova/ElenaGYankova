@@ -40,3 +40,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaGYankova&show_icons=true&theme=gradient)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaGYankova&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
