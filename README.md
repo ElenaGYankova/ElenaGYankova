@@ -1,7 +1,7 @@
-[![MasterHead](https://mega.nz/file/3dRHWLTD#tAnH4KMB5NuN-4tvTNE94E7Vthi4VQPT3s2zLeBF0aA)]
+[![MasterHead]([https://mega.nz/file/3dRHWLTD#tAnH4KMB5NuN-4tvTNE94E7Vthi4VQPT3s2zLeBF0aA](https://www.facebook.com/photo/?fbid=9619454734738752&set=a.459029764114674))]()
 <h1 align="center">Hello World! 👋 I'm Elena Yankova</h1>
 <h3 align="center">A passionate backend developer from Bulgaria.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F85%2F18%2Fe18518c6d24257c6fb02e3c95a862d85.gif&tbnid=55tSYXBPz-8LWM&vet=12ahUKEwiTne2spur-AhVdhP0HHaUDDU0QMygLegUIARCHAg..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F923097254842446708%2F&docid=bUxcLh0ipUSIBM&w=500&h=270&q=animated%20girl%20coding%20gif&ved=2ahUKEwiTne2spur-AhVdhP0HHaUDDU0QMygLegUIARCHAg">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ffeurstern&psig=AOvVaw1oY7dcAEB6h5oNUtzgLJtO&ust=1683792618628000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIii082m6v4CFQAAAAAdAAAAABAD)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elenagyankova&label=Profile%20views&color=0e75b6&style=flat" alt="elenagyankova" /> </p>
 
