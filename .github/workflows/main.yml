@@ -24,6 +24,15 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+          ref: 'main'
+
+      # Use Node.js 16
+      - name: Use Node.js 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
 
     # Generates the snake  
       - uses: Platane/snk@master
@@ -42,7 +51,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
