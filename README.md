@@ -38,8 +38,12 @@
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/elenagyankova/elenagyankova/blob/output/github-contribution-grid-snake.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaGYankova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaGYankova&show_icons=true&theme=gradient)
+<p>
+<img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElenaGYankova&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaGYankova&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+</p>
+<p></p><p></p>
+
