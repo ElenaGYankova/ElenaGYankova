@@ -47,3 +47,9 @@
 </p>
 <p></p><p></p>
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/ElenaGYankova/count.svg">  
+  
+![](assets/Bottom_down.svg)
