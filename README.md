@@ -38,7 +38,7 @@
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/elenagyankova/elenagyankova/blob/output/github-contribution-grid-snake.gif)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
+<p><img height="150em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
 
 <p>
 <img height="150em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElenaGYankova&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
